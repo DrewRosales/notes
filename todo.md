@@ -22,3 +22,6 @@ Recording MUTT data:
 * End at the finish of each run
 
 `argus_spaced.py` downsamples routes from existing argus routes
+
+Remove Vahalla as global planner:
+`grpc_bridge/config/default.yml` change the `use_mission_points_as_global_route` to `false`
