@@ -21,3 +21,4 @@ Recording MUTT data:
 * Add name of the rosbag
 * End at the finish of each run
 
+`argus_spaced.py` downsamples routes from existing argus routes
