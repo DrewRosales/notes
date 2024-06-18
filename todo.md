@@ -12,3 +12,4 @@ Change into machine in tmutt session
 
 `roscd` into module and change `default.yml`
 
+Relaunch `tmutt`
